@@ -20,3 +20,6 @@ System.out.println("Hipotenüs:"  +c );
 
 
 }
+
+
+www.patika.dev
